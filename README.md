@@ -1,3 +1,4 @@
+![OCDCpro Logo](https://github.com/OCDCpro/.github/blob/main/profile/pics/OCDCpro_Logo_small.png)
 # WP4 – Open-Source Process Design Kit (PDK)
 
 ---
@@ -116,7 +117,7 @@ These outputs form the technical backbone of the Design Challenge.
 
 - **MS 4.1 (Month 12):** First version of the adapted PDK  
 - **MS 4.2 (Month 18):** Prototype test server operational  
-- **MS 4.3 (Month 36):** Final documentation and Docker image released  
+- **MS 4.3 (Month 36):** Final documentation and Docker image released
 
 ---
 
@@ -124,3 +125,7 @@ These outputs form the technical backbone of the Design Challenge.
 WP4 spans the entire period from Month 6 to Month 36 and integrates technical contributions from multiple partners in the project.  
 It provides the necessary infrastructure to ensure accessibility, reproducibility, and usability for all participants of the Design Challenge.
 
+---
+
+## LAYR 2025 Website
+[LAYR 2025 Website](https://layr-challenge.de)
